@@ -1,0 +1,23 @@
+{
+  "name": "productgrouppackage",
+  "version": "1.0.0",
+  "description": "product group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanche895/productgrouppackage.git"
+  },
+  "keywords": [
+    "NPM",
+    "ProductGroup"
+  ],
+  "author": "Milan Stojanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milanche895/productgrouppackage/issues"
+  },
+  "homepage": "https://github.com/milanche895/productgrouppackage#readme"
+}
